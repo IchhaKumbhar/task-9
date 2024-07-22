@@ -1,0 +1,13 @@
+[
+    { "id": 1, "subject": "Website Redesign", "client": "Tata Consultancy", "project": "UI/UX Overhaul", "amount": "₹3000", "startDate": "01/01/2023", "endDate": "01/12/2023" },
+    { "id": 2, "subject": "Mobile App Development", "client": "Reliance Industries", "project": "E-Commerce App", "amount": "₹5000", "startDate": "02/01/2023", "endDate": "03/12/2023" },
+    { "id": 3, "subject": "Digital Marketing Campaign", "client": "Infosys", "project": "SEO Optimization", "amount": "₹2000", "startDate": "01/15/2023", "endDate": "02/28/2023" },
+    { "id": 4, "subject": "Cloud Migration", "client": "Wipro", "project": "Cloud Infrastructure", "amount": "₹4000", "startDate": "03/01/2023", "endDate": "04/30/2023" },
+    { "id": 5, "subject": "Cybersecurity Audit", "client": "HCL Technologies", "project": "Security Assessment", "amount": "₹3500", "startDate": "04/01/2023", "endDate": "04/30/2023" },
+    { "id": 6, "subject": "Data Analysis", "client": "TCS", "project": "Big Data Analysis", "amount": "₹4500", "startDate": "05/01/2023", "endDate": "05/12/2023" },
+    { "id": 7, "subject": "Blockchain Integration", "client": "Mahindra", "project": "Blockchain Development", "amount": "₹6000", "startDate": "06/01/2023", "endDate": "07/12/2023" },
+    { "id": 8, "subject": "AI Model Training", "client": "Tech Mahindra", "project": "AI Implementation", "amount": "₹7000", "startDate": "07/01/2023", "endDate": "08/12/2023" },
+    { "id": 9, "subject": "Network Optimization", "client": "Cisco", "project": "Network Upgrades", "amount": "₹5500", "startDate": "08/01/2023", "endDate": "09/30/2023" },
+    { "id": 10, "subject": "ERP Implementation", "client": "IBM", "project": "ERP System Deployment", "amount": "₹8000", "startDate": "09/01/2023", "endDate": "12/12/2023" }
+  ]
+  

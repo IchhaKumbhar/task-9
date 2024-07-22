@@ -1,0 +1,14 @@
+[
+    { "value": "All", "label": "All" },
+    { "value": "Tata Consultancy", "label": "Tata Consultancy" },
+    { "value": "Reliance Industries", "label": "Reliance Industries" },
+    { "value": "Infosys", "label": "Infosys" },
+    { "value": "Wipro", "label": "Wipro" },
+    { "value": "HCL Technologies", "label": "HCL Technologies" },
+    { "value": "TCS", "label": "TCS" },
+    { "value": "Mahindra", "label": "Mahindra" },
+    { "value": "Tech Mahindra", "label": "Tech Mahindra" },
+    { "value": "Cisco", "label": "Cisco" },
+    { "value": "IBM", "label": "IBM" }
+  ]
+  
